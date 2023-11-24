@@ -1,6 +1,6 @@
 # Reelo-Assignment
 
-Step 1 - Clone the repo.[git clone https://github.com/Ab2602//Reelo-Assignment/]
+Step 1 - Clone the repo.[ git clone https://github.com/Ab2602//Reelo-Assignment/ ]
 
 Step 2 - cd Reelo-Assignment
 
